@@ -1,7 +1,5 @@
 {
-  "name": "Hello World",
-  "integrations": {
-    "capacitor": {}
-  },
+  "name": "MovilAndroidIOS",
+  "integrations": {},
   "type": "vue"
 }
