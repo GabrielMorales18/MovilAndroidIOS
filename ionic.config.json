@@ -1,5 +1,5 @@
 {
-  "name": "Hello World",
+  "name": "helloWorld",
   "integrations": {
     "capacitor": {}
   },

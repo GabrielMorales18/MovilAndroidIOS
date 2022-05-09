@@ -1,2 +1,2 @@
 # MovilAndroidIOS
-Generación de proyectos de ionic para IOS y Android
+Generación de proyectos ionic para ios y android

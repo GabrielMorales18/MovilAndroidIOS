@@ -2,7 +2,7 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'Hello World',
+  appName: 'helloWorld',
   webDir: 'dist',
   bundledWebRuntime: false
 };
